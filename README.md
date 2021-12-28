@@ -1,7 +1,7 @@
 # chimes
 A collection of doorbell chimes and their wiring
 
-***Honeywell / Freidland Chimes***
+## Honeywell / Freidland Chimes
 | | Chime | Wiring from transformer | Wiring from doorbell |
 | :---          | :---         |     :---:      |          ---: |
 | ![alt text](https://github.com/ads1230/chimes/raw/main/friedland%20honeywell/img/51ee46a1-ed79-4ad6-9577-a670883ff6e3.__CR0%2C0%2C150%2C300_PT0_SX150_V1___.jpg)         | D103 Gala   | T3     | 0F    |
